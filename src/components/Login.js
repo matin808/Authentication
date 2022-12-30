@@ -1,4 +1,4 @@
-import { useRef, useState, useEffect, useContext } from "react";
+import { useRef, useState, useEffect } from "react";
 // https://github.com/gitdagray/react_login_form/blob/main/src/Login.js
 const Login = () => {
   const userRef = useRef();
